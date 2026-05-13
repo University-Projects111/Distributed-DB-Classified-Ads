@@ -108,8 +108,6 @@ Distributed-DB-Classified-Ads/
 
 ## Team
 
-> *University project — Distributed Databases course*
-
 | # | Name |
 |---|------|
 | 1 | Nouran Ehab Abdallah |
