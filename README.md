@@ -98,10 +98,7 @@ Distributed-DB-Classified-Ads/
 │   ├── Schema2.jpg
 │   └── DDB_Presentation.pdf
 │
-├── schema/
-│   ├── entities_and_attributes.md
-│   └── fragmentation_design.md
-│
+├
 └── sql/
     ├── server1_userui.sql
     └── server2_operations.sql
